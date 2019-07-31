@@ -1,2 +1,2 @@
 # About
-Scripts for easy install/setup SW!
+Scripts for easy install/setup SW.
